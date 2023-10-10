@@ -1,77 +1,19 @@
-items = [x for x in input().split()]
-items_first_iter = []
-items_second_iter = []
-items_third_iter = []
-outofstocklist = []
-required = []
-justincase = []
+gifts = input().split(" ")
+command = input() .split(" ")
+while command[0] != 'No' and command[1] != 'Money':
+    index = 0
+    if command[0] == 'OutOfStock':
+        gift = command[1]
+        gifts = list(map(lambda lst: lst.replace(gift,"None"), gifts))
+    elif command[0] == 'Required':
+        index = int(command[2])
+        if 0 < index < len(gifts):
+            gifts[index] = command[1]
+    elif command[0] == 'JustInCase':
+        gifts[-1] = command[1]
+    command = input().split(' ')
+while 'None' in gifts:
+    gifts. remove('None')
 
-command = input()
-for item in items:
-    if command == "No Money":
-        break
-    for item in items:
-        if "OutOfStock" in command:
-            if item == command.replace("OutOfStock ",""):
-                items_first_iter.append("None")
-        elif "Required" in command:
-            temp_commands = command.split()
-            if int(temp_commands[2]) > len(items):
-                break
-            else:
-                items_first_iter.pop(int(temp_commands[2]))
-                items_first_iter.insert(int(temp_commands[2]),temp_commands[1])
-                break
-        elif "JustInCase" in command:
-            justincase.append(command.replace("JustInCase ",""))
-        else:
-            items_first_iter.append(item)
-
-# if "OutOfStock" in command:
-#     outofstocklist.append(command.replace("OutOfStock ",""))
-# elif "Required" in command:
-#     temp_commands = command.split()
-#     required.append(temp_commands[1])
-#     required.append(temp_commands[2])
-# elif "JustInCase" in command:
-#     justincase.append(command.replace("JustInCase ",""))
-
-while command != "No Money":
-    command = input()
-    if command == "No Money":
-        break
-    for item in items:
-        if "OutOfStock" in command:
-            if item == command.replace("OutOfStock ",""):
-                items_first_iter.append("None")
-        elif "Required" in command:
-            temp_commands = command.split()
-            if int(temp_commands[2]) > len(items):
-                break
-            else:
-                items_first_iter.pop(int(temp_commands[2]))
-                items_first_iter.insert(int(temp_commands[2]),temp_commands[1])
-                break
-        elif "JustInCase" in command:
-            justincase.append(command.replace("JustInCase ",""))
-        else:
-            items_first_iter.append(item)
-
-items_first_iter.pop(-1)
-items_first_iter.append(justincase[0])
-
-for x in items_first_iter:
-    if x == "None":
-        items_first_iter.remove("None")
-
-
-joined_string = " ".join(map(str,items_first_iter))
-print(joined_string, end="")
-
-
-
-
-
-
-
-#print(items)
+for i in gifts:
+    print(i, end=' ')
