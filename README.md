@@ -21,3 +21,4 @@ In this repository, I share my collection of Python exercises completed during m
    - [Objects and Classes](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Programming%20Fundamentals%20Python%202023/Objects%20and%20Classes)
    - [Dictionaries](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Programming%20Fundamentals%20Python%202023/Dictionaries)
    - [Text Processing](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Programming%20Fundamentals%20Python%202023/Text%20Processing)
+   - [Regular Expressions](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Programming%20Fundamentals%20Python%202023/RegEx)
