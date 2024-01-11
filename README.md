@@ -22,3 +22,7 @@ In this repository, I share my collection of Python exercises completed during m
    - [Dictionaries](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Programming%20Fundamentals%20Python%202023/Dictionaries)
    - [Text Processing](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Programming%20Fundamentals%20Python%202023/Text%20Processing)
    - [Regular Expressions](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Programming%20Fundamentals%20Python%202023/RegEx)
+   - [Final Exam Practice](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Programming%20Fundamentals%20Python%202023/Final%20Exam%20Practice)
+
+### Python Advance 2024
+   - [Lists as Stacks and Queues](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20Advanced%202024/Lists%20as%20Stacks%20and%20Queues)
