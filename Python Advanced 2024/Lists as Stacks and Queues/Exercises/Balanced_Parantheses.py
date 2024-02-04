@@ -20,4 +20,4 @@ while expression and counter < len(expression) / 2:
 if expression:
     print("NO")
 else:
-    print("Yes")
+    print("YES")
