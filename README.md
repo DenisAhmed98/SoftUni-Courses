@@ -26,3 +26,9 @@ In this repository, I share my collection of Python exercises completed during m
 
 ### Python Advance 2024
    - [Lists as Stacks and Queues](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20Advanced%202024/Lists%20as%20Stacks%20and%20Queues)
+   - [Tuples and Sets](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20Advanced%202024/Tuples%20and%20Sets)
+   - [Exercise: Stacks, Queues, Tuples and Sets](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20Advanced%202024/Exercise%20Stacks%20Queues%20Tuples%20and%20Sets)
+   - [Multidimensional Lists](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20Advanced%202024/Multidimensional%20Lists)
+   - [Functions Advanced](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20Advanced%202024/Functions%20Advanced)
+   - [Error Handling](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20Advanced%202024/Error%20Handling)
+   - [File Handling]
