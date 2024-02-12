@@ -13,7 +13,8 @@ In this repository, I share my collection of Python exercises completed during m
    - [Multidimensional Lists](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20Advanced%202024/Multidimensional%20Lists)
    - [Functions Advanced](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20Advanced%202024/Functions%20Advanced)
    - [Error Handling](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20Advanced%202024/Error%20Handling)
-   - [File Handling]
+   - [File Handling](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20Advanced%202024/File%20Handling)
+   - [Modules](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20Advanced%202024/Modules)
 
 
 ### Programming Fundamentals Python 2023
