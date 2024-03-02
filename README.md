@@ -6,6 +6,10 @@ In this repository, I share my collection of Python exercises completed during m
 ### Workshops and Projects
    - Python Fundamentals - [Rock Paper Scissors Game](https://github.com/DenisAhmed98/RockPaperScissorsGame)
 
+### Python OOP 2024
+   - [First Steps in OOP](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20OOP%202024/First%20Steps%20in%20OOP)
+
+
 ### Python Advance 2024
    - [Lists as Stacks and Queues](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20Advanced%202024/Lists%20as%20Stacks%20and%20Queues)
    - [Tuples and Sets](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20Advanced%202024/Tuples%20and%20Sets)
