@@ -9,6 +9,7 @@ In this repository, I share my collection of Python exercises completed during m
 ### Python OOP 2024
    - [First Steps in OOP](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20OOP%202024/First%20Steps%20in%20OOP)
    - [Classes and Objects](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20OOP%202024/Classes%20and%20Objects)
+   - [Inheritance](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20OOP%202024/Inheritance)
 
 
 ### Python Advance 2024
