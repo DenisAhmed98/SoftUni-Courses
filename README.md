@@ -10,6 +10,15 @@ In this repository, I share my collection of Python exercises completed during m
    - [First Steps in OOP](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20OOP%202024/First%20Steps%20in%20OOP)
    - [Classes and Objects](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20OOP%202024/Classes%20and%20Objects)
    - [Inheritance](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20OOP%202024/Inheritance)
+   - [Encapsulation](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20OOP%202024/Encapsulation)
+   - [Static and Class Methods](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20OOP%202024/Static%20and%20Class%20Method)
+   - [Polymorphism and Abstraction](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20OOP%202024/Polymorphism)
+   - SOLID
+   - [Iterators and Generators](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20OOP%202024/Iterators%20and%20Generators)
+   - [Decorators](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20OOP%202024/Decorators)
+   - Testing
+   - Exam Preparation 01
+   - Exam Preparation 02
 
 
 ### Python Advance 2024
@@ -21,8 +30,7 @@ In this repository, I share my collection of Python exercises completed during m
    - [Error Handling](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20Advanced%202024/Error%20Handling)
    - [File Handling](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20Advanced%202024/File%20Handling)
    - [Modules](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20Advanced%202024/Modules)
-   - [Exam Preparation 01]()
-   - [Exam Preparation 02](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20Advanced%202024/Exam%20Prep%2002)
+   - [Exam Preparation](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20Advanced%202024/Exam%20Prep%2002)
 
 
 ### Programming Fundamentals Python 2023
