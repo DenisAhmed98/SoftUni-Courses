@@ -16,7 +16,7 @@ In this repository, I share my collection of Python exercises completed during m
    - SOLID
    - [Iterators and Generators](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20OOP%202024/Iterators%20and%20Generators)
    - [Decorators](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20OOP%202024/Decorators)
-   - Testing
+   - [Unit Testing](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20OOP%202024/Unit%20Testintg)
    - Exam Preparation 01
    - Exam Preparation 02
 
