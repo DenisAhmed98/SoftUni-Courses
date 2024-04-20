@@ -17,9 +17,12 @@ In this repository, I share my collection of Python exercises completed during m
    - [Iterators and Generators](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20OOP%202024/Iterators%20and%20Generators)
    - [Decorators](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20OOP%202024/Decorators)
    - [Unit Testing](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20OOP%202024/Unit%20Testintg)
-   - Exam Preparation 01
-   - Exam Preparation 02
-
+   - [Exam Preparation 01](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20OOP%202024/Exam%20Preparation%2001)
+   - [Exam Preparation 02](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20OOP%202024/Exam%20Preparation%2002)
+   - [Exam Preparation 03](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20OOP%202024/Exam%20Preparation%2003)
+   - [Exam Preparation 04](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20OOP%202024/Exam%20Preparation%2004)
+   - [Exam Preparation 05](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20OOP%202024/Exam%20Preparation%2005)
+   - [Final Exam](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20OOP%202024/Final%20Exam)
 
 ### Python Advance 2024
    - [Lists as Stacks and Queues](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20Advanced%202024/Lists%20as%20Stacks%20and%20Queues)
