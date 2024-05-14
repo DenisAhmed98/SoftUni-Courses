@@ -6,6 +6,9 @@ In this repository, I share my collection of Python exercises completed during m
 ### Workshops and Projects
    - Python Fundamentals - [Rock Paper Scissors Game](https://github.com/DenisAhmed98/RockPaperScissorsGame)
 
+### PostgreSQL 2024
+   -[PostgreSQL Introduction](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/PostgreSQL%202024/PostgreSQL%20Introduction)
+
 ### Python OOP 2024
    - [First Steps in OOP](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20OOP%202024/First%20Steps%20in%20OOP)
    - [Classes and Objects](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20OOP%202024/Classes%20and%20Objects)
