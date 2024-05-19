@@ -8,6 +8,7 @@ In this repository, I share my collection of Python exercises completed during m
 
 ### PostgreSQL 2024
    - [PostgreSQL Introduction](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/PostgreSQL%202024/PostgreSQL%20Introduction)
+   - [Basic CRUD](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/PostgreSQL%202024/Basic%20CRUD)
 
 ### Python OOP 2024
    - [First Steps in OOP](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20OOP%202024/First%20Steps%20in%20OOP)
