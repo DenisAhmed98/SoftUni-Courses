@@ -4,6 +4,7 @@
 In this repository, I share my collection of Python exercises completed during my coursework from each module. They are listed from the newest module to the oldest one. Each module and class project is organized, highlighting various task types and modules for easy navigation and reference.
 
 ### Workshops and Projects
+   - Python Fundamentals - [Guess A Number Game](https://github.com/DenisAhmed98/Guess-A-Number-Workshop)
    - Python Fundamentals - [Rock Paper Scissors Game](https://github.com/DenisAhmed98/RockPaperScissorsGame)
 
 ### PostgreSQL 2024
