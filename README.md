@@ -6,6 +6,7 @@ In this repository, I share my collection of Python exercises completed during m
 ### Workshops and Projects
    - Python Fundamentals - [Guess A Number Game](https://github.com/DenisAhmed98/Guess-A-Number-Workshop)
    - Python Fundamentals - [Rock Paper Scissors Game](https://github.com/DenisAhmed98/RockPaperScissorsGame)
+   - Python Fundamentals - [Random Sentence Generator Game](https://github.com/DenisAhmed98/Random-Sentence-Generator-Workshop)
 
 ### PostgreSQL 2024
    - [PostgreSQL Introduction](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/PostgreSQL%202024/PostgreSQL%20Introduction)
