@@ -1,3 +1,5 @@
+-- Task 01
+
 CREATE TABLE employees
 (
 	id serial PRIMARY KEY NOT NULL,
@@ -24,17 +26,27 @@ CREATE TABLE issues
 	start TIMESTAMPTZ
 );
 
+-- Task 03
+
 ALTER TABLE employees
 ADD COLUMN middle_name VARCHAR(50)
+
+-- Task 04
 
 ALTER TABLE employees
 ALTER COLUMN salary SET NOT NULL,
 ALTER COLUMN salary SET DEFAULT 0,
 ALTER COLUMN hiring_date SET NOT NULL
 
+-- Task 05
+
 ALTER TABLE employees
 ALTER COLUMN middle_name TYPE VARCHAR(100)
 
+-- Task 06
+
 TRUNCATE TABLE issues
+
+-- Task 07
 
 DROP TABLE departments
