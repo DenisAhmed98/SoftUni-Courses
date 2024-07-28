@@ -1,6 +1,5 @@
 # SoftUni Courses
 
-## Description
 In this repository, I share my collection of Python exercises completed during my coursework from each module. They are listed from the newest module to the oldest one. Each module and class project is organized, highlighting various task types and modules for easy navigation and reference.
 
 ### Workshops and Projects
