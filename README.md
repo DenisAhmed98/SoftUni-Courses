@@ -10,13 +10,13 @@ In this repository, I share my collection of Python exercises completed during m
 ### PostgreSQL 2024
    - [PostgreSQL Introduction](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/PostgreSQL%202024/PostgreSQL%20Introduction)
    - [Basic CRUD](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/PostgreSQL%202024/Basic%20CRUD)
-   - [Builtin Functions]()
-   - [Data Aggregation]()
-   - [Table Relations]()
-   - [Subqueries and JOINs]()
-   - [Database Programmability and Transactions]()
-   - [Exam Preparation]()
-   - [Final Exam]()
+   - [Builtin Functions](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/PostgreSQL%202024/Builtin%20Functions)
+   - [Data Aggregation](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/PostgreSQL%202024/Data%20Aggregation)
+   - [Table Relations](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/PostgreSQL%202024/Table%20Relations)
+   - [Subqueries and JOINs](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/PostgreSQL%202024/Subqueries%20and%20JOINs)
+   - [Database Programmability and Transactions](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/PostgreSQL%202024/Database%20Programmability%20and%20Transactions)
+   - [Exam Preparation](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/PostgreSQL%202024/Exam%20Preparation)
+   - [Final Exam](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/PostgreSQL%202024/Final%20Exam)
 
 
 ### Python OOP 2024
