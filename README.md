@@ -8,7 +8,7 @@ In this repository, I share my collection of Python exercises completed during m
    - Python Fundamentals - [Random Sentence Generator Game](https://github.com/DenisAhmed98/Random-Sentence-Generator-Workshop)
 
 ### Python ORM 2024
-   -[Django Models Basics](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20ORM%202024/Django%20Models%20Basics)
+   - [Django Models Basics](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20ORM%202024/Django%20Models%20Basics)
 
 ### PostgreSQL 2024
    - [PostgreSQL Introduction](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/PostgreSQL%202024/PostgreSQL%20Introduction)
