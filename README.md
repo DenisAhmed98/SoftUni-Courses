@@ -9,6 +9,8 @@ In this repository, I share my collection of Python exercises completed during m
 
 ### Python ORM 2024
    - [Django Models Basics](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20ORM%202024/Django%20Models%20Basics)
+   - [Migrations and Django Admin](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20ORM%202024/Migrations%20and%20Django%20Admin)
+   - [Data Operations in Django with Queries](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20ORM%202024/Data%20Operations%20in%20Django%20with%20Queries)
 
 ### PostgreSQL 2024
    - [PostgreSQL Introduction](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/PostgreSQL%202024/PostgreSQL%20Introduction)
