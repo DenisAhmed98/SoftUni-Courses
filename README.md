@@ -18,6 +18,7 @@ In this repository, I share my collection of Python exercises completed during m
    - [Advanced Queries in Django](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20ORM%202024/Advanced%20Queries%20in%20Django)
    - [Exam Preparation 01](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20ORM%202024/Exam%20Preparation%2001)
    - [Exam Preparation 02](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20ORM%202024/Exam%20Preparation%2002)
+   - [Exam Preparation 03](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20ORM%202024/Exam%20Preparation%2003)
    
 
 ### PostgreSQL 2024
