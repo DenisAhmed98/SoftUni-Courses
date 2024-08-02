@@ -15,8 +15,7 @@ def pack():
                 current_dir = root.split('\\')[-1]
                 if file in ['requirements.txt', 'manage.py', 'caller.py']\
                         or current_dir in ['main_app', 'orm_skeleton', 'migrations']:
-                    if 'venv' not in file_path:
-                        zipf.write(file_path, archive_path)
+                    zipf.write(file_path, archive_path)
 
     print('Submission created!')
 if __name__ == '__main__':
