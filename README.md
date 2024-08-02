@@ -16,7 +16,8 @@ In this repository, I share my collection of Python exercises completed during m
    - [Models Inheritance and Customization](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20ORM%202024/Models%20Inheritance%20and%20Customization)
    - [Advanced Django Model Techniques](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20ORM%202024/Advanced%20Django%20Model%20Techniques)
    - [Advanced Queries in Django](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20ORM%202024/Advanced%20Queries%20in%20Django)
-   - [Exam Preparation 01](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20ORM%202024/Advanced%20Queries%20in%20Django)
+   - [Exam Preparation 01](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20ORM%202024/Exam%20Preparation%2001)
+   
 
 ### PostgreSQL 2024
    - [PostgreSQL Introduction](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/PostgreSQL%202024/PostgreSQL%20Introduction)
