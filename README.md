@@ -7,6 +7,10 @@ In this repository, I share my collection of Python exercises completed during m
    - Python Fundamentals - [Rock Paper Scissors Game](https://github.com/DenisAhmed98/RockPaperScissorsGame)
    - Python Fundamentals - [Random Sentence Generator Game](https://github.com/DenisAhmed98/Random-Sentence-Generator-Workshop)
 
+### HTML and CSS 2024
+   - [Introduction to HTML and CSS](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/HTML%20and%20CSS%202024/Introduction%20to%20HTML%20and%20CSS)
+
+
 ### Python ORM 2024
    - [Django Models Basics](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20ORM%202024/Django%20Models%20Basics)
    - [Migrations and Django Admin](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Python%20ORM%202024/Migrations%20and%20Django%20Admin)
