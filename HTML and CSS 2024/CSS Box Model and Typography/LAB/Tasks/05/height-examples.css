@@ -1,0 +1,22 @@
+div {
+    border: 2px solid black;
+    padding: 1em 2em 1em 2em;
+    margin-bottom: 2em;
+}
+
+.fixed-height {
+    height: 200px;
+}
+
+.percentage-height {
+    height: 50%;
+}
+
+.viewport-height {
+    height: 50vh;
+}
+
+.min-max-height {
+    height: 100px;
+    height: 300px;
+}
