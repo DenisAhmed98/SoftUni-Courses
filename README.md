@@ -8,7 +8,7 @@ In this repository, I share my collection of Python exercises completed during m
    - Python Fundamentals - [Random Sentence Generator Game](https://github.com/DenisAhmed98/Random-Sentence-Generator-Workshop)
 
 
-### 
+### JS Front-End 2024
    - [JS Syntax Fundamentals](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/JS%20Front-End/JS%20Syntax%20Fundamentals)
 
 
@@ -88,7 +88,7 @@ In this repository, I share my collection of Python exercises completed during m
    - [Final Exam Practice](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Programming%20Fundamentals%20Python%202023/Final%20Exam%20Practice)
 
 
-### Programming Basics Python
+### Programming Basics Python 2023
    - [First Steps in Coding](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Programming%20Basics%20Python%202023/First%20Steps%20in%20Coding)
    - [Conditional Statements](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Programming%20Basics%20Python%202023/Conditional%20Statements)
    - [Conditional Statements Advanced](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Programming%20Basics%20Python%202023/Conditional%20Statements%20Advanced)
