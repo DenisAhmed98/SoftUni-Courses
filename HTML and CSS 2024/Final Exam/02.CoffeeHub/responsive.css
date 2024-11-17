@@ -1,0 +1,64 @@
+/* responsive.css */
+@media screen and (max-width: 600px) {
+    .home-container {
+        flex-wrap: wrap;
+        
+    }
+
+    .home-heading-container {
+        width: auto;
+    }
+
+    .home-image2,
+    .home-image3,
+    .home-image4 {
+    width: 376px;
+    height: 276px;
+    object-fit: cover;
+    margin-bottom: 20px;
+    }
+
+
+    .home-feature-card,
+    .home-feature-card1,
+    .home-feature-card2 {
+        align-self: center;
+        width: auto;
+        
+    }
+    .home-cards-container {
+        flex-direction: column; 
+    }
+
+    .home-features {
+        flex: 1 1 100%;
+    }
+
+    .home-stats {
+        flex: 1 1 100%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .home-hero {
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+
+    .home-hero-text-container {
+        width: auto;
+    }
+
+    .home-hero > .home-hero-text-container {
+        order: 2;
+        width: auto;
+    }
+
+    .home-hero > img {
+        order: 1;
+        width: 100%;
+    }
+
+}
+  
