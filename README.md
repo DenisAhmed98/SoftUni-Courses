@@ -12,6 +12,7 @@ In this repository, I share my collection of Python exercises completed during m
    - [JS Syntax Fundamentals](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/JS%20Front-End/JS%20Syntax%20Fundamentals)
    - [JS Arrays and Strings](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/JS%20Arrays%20and%20Strings)
    - [Functions and Statements](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/JS%20Front-End/Functions%20and%20Statements)
+   - [Object and Classes](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/JS%20Front-End/Object%20and%20Classes)
 
 
 
