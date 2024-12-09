@@ -13,6 +13,7 @@ In this repository, I share my collection of Python exercises completed during m
    - [JS Arrays and Strings](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/JS%20Arrays%20and%20Strings)
    - [Functions and Statements](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/JS%20Front-End/Functions%20and%20Statements)
    - [Object and Classes](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/JS%20Front-End/Object%20and%20Classes)
+   - [DOM Introduction](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/JS%20Front-End/DOM%20Introduction)
 
 
 
