@@ -14,11 +14,12 @@ In this repository, I share my collection of Python exercises completed during m
    - [Functions and Statements](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/JS%20Front-End/Functions%20and%20Statements)
    - [Object and Classes](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/JS%20Front-End/Object%20and%20Classes)
    - [DOM Introduction](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/JS%20Front-End/DOM%20Introduction)
-
+   - [DOM Manipulation and Events](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/JS%20Front-End/DOM%20Manipulation%20and%20Events)
+   - [DOM HTTP and AJAX](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/JS%20Front-End/HTTP%20and%20AJAX)
+   - [Final Exam](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/JS%20Front-End/Final%20Exam)
 
 
 ### HTML and CSS 2024
-   - [Introduction to HTML and CSS](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/HTML%20and%20CSS%202024/Introduction%20to%20HTML%20and%20CSS)
    - [Final Exam](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/HTML%20and%20CSS%202024/Final%20Exam)
 
 
@@ -100,5 +101,3 @@ In this repository, I share my collection of Python exercises completed during m
    - [For Loop](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Programming%20Basics%20Python%202023/For%20Loop)
    - [While Loop](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Programming%20Basics%20Python%202023/While%20Loop)
    - [Nested Loops](https://github.com/DenisAhmed98/SoftUni-Courses/tree/main/Programming%20Basics%20Python%202023/Nested%20Loops)
-
-
